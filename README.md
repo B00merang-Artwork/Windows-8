@@ -1,4 +1,4 @@
 # Windows 8 Icons for Ubuntu
-The icons of Windows 8 ported to Ubuntu and Linux Mint and feren OS. This means that hopefully I can get feren OS to properly download and install this icon set...
+An archive of what was 'Windows Icons' on GNOME Look that has since directed to a broken Dropbox link whilst people still wanted to download it themselves.
 
 Download at https://github.com/feren/Windows8Icons/archive/master.zip
