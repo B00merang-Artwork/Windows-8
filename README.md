@@ -1,4 +1,9 @@
-# Windows 8 Icons for Ubuntu
-An archive of what was 'Windows Icons' on GNOME Look that has since directed to a broken Dropbox link whilst people still wanted to download it themselves.
+# Windows 8 Icons
 
-Download at https://github.com/B00merang-Project/Windows8Icons/archive/master.zip
+![image.com](http://images.all-free-download.com/images/graphicthumb/folder_37125.jpg)
+
+Windows 8 icon theme. although not differing much from Windows 7's icons, this icon theme has some exclusive icons differing it from Windows 7
+
+**Maintainer:** [feren](https://github.com/feren)
+
+**Original license:** GPL v3, by [Ambiance-69](https://www.gnome-look.org/member/336792/)
